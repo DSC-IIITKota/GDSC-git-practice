@@ -8,7 +8,7 @@
 #### Typical & Highly Useful Git Commands
 
 ```bash
-git clone git@github.com:<user_name>/the-repo-you-are-cloning.git
+git clone https://github.com/Ankur6702/GDSC-git-practice.git
 ```
 Clones your remote origin repo locally
 
